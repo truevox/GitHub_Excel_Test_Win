@@ -8,6 +8,8 @@ Sub ConvertColumntoGeneral_Currency()
 
 ' The FieldInfo parameter Array(1,1) specifies that the 1st column in the selection will be parsed as General (or Currency if $ was include) (see XLColumnDataType web page
 
+' I like to test things. Don't you?
+
 ' Keyboard Shortcut: Ctrl+Shift+N
     Dim MyCol As Integer
     MyCol = ActiveCell.Column
