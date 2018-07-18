@@ -10,6 +10,8 @@ Sub ConvertColumntoGeneral_Currency()
 
 ' I like to test things. Don't you?
 
+' I do, actually. It's fun.
+
 ' Keyboard Shortcut: Ctrl+Shift+N
     Dim MyCol As Integer
     MyCol = ActiveCell.Column
