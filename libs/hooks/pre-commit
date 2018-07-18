@@ -1,0 +1,4 @@
+#!/bin/sh
+
+C:\\Users\\marvinb\\AppData\\Local\\Programs\\Python\\Python37-32\\python .git/hooks/pre-commit.py
+git add *.bas
